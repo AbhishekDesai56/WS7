@@ -173,8 +173,11 @@ select {
     text-align: center;
 }
 
-.text-error, .text-error-date {
-    color: rgb(233, 37, 37);
+error-output {
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: italic;
+    color: red;
 }
 @media only screen and (max-width:960px) {
     .cancelButton {
