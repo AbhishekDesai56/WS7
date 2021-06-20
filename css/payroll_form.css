@@ -59,12 +59,13 @@ body {
     opacity: 1;
 }
 
-.form-content {
-    display: flex;
-    flex-direction: row;
-    margin-bottom: 10px;
-    align-items: center;
-    border: 0px solid green;
+.form-head {
+    font: normal normal bold 24px/37px Roboto;
+    letter-spacing: 0px;
+    color: #42515f;
+    text-transform: capitalize;
+    opacity: 1;
+    padding-bottom: 20px;
 }
 
 .row-content {
